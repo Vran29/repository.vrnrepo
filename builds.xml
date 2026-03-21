@@ -11,13 +11,3 @@
 	<preview>http://</preview>
   </build>
   
-  <build>
-	<name>VRNLite</name>
-	<version>1.0</version>
-	<kodi>K21</kodi>
-	<url>http://https://files.catbox.moe/yvp4k9.7z</url>
-	<icon>http://</icon>
-	<fanart>http://</fanart>
-	<description>Just a lite build that doesnt need debrid. Uses elementum with burst, Simple PVR and The loop.</description>
-	<preview>http://</preview>
-  </build>
